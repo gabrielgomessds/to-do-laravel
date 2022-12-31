@@ -1,4 +1,4 @@
-# Tto-do-laravel
+# to-do-laravel
 
 <h3>:mega: Sobre o projeto: </h3>
 O projeto é um gerenciamento de tarefas onde você pode marcar as tarefas quando concluidas. Há um grafico na página principal que mostra a porcentagem de tarefas finalizadas e não finalizadas.
